@@ -1,0 +1,5 @@
+Hi Grayson,
+Thank you for sharing your experience. 
+So far the experience I've had with the free router API from OpenRouter is that it randomly picks a model every time you call a request, which makes the response very random as well.
+
+Regarding the local models, I agree that they are not in the same level of quality, in comparison to the commercial ones. However, regarding inference throughput I have been using Ollama with the Qwen as well, but the GPU

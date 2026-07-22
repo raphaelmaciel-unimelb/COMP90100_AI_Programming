@@ -1,0 +1,5 @@
+Mitigation steps:
+1. Implemented temporary IP blacklisting for the offending addresses
+2. Enabled two-factor authentication for all user accounts
+3. Reviewed and strengthened password policies
+

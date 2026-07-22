@@ -1,0 +1,20 @@
+# Incident Report: Brute Force Attack
+# Timestamp: 2023-05-15 09:32:17 UTC
+
+The security monitoring system detected a brute force attack targeting the main web server.
+The attack originated from multiple IP addresses, attempting to gain unauthorized access by rapidly trying different username and password combinations.
+
+Initial triage:
+- Web server logs show a spike in failed login attempts
+- Source IPs appear to be part of a botnet, likely compromised systems
+- No successful logins detected during the attack window
+
+Mitigation steps:
+1. Implemented temporary IP blacklisting for the offending addresses
+2. Enabled two-factor authentication for all user accounts
+3. Reviewed and strengthened password policies
+
+Forensic analysis is underway to determine the attack vector and identify potential data breaches.
+Relevant logs and artifacts have been securely archived for further investigation.
+
+# End of Report

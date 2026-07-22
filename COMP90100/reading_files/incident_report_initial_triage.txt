@@ -1,0 +1,5 @@
+Initial triage:
+- Web server logs show a spike in failed login attempts
+- Source IPs appear to be part of a botnet, likely compromised systems
+- No successful logins detected during the attack window
+
